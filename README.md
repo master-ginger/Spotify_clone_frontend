@@ -1,3 +1,9 @@
+# Details
+This project is developed from scratch using Reactjs and Tailwind CSS. The responsive design is still under progress
+Some main features I have tried implementing:
+1. React Routing: In the sidebar if you click the liked songs button, you can see the implementation of routing.
+2. Search Bar: Implemented search function. Currently, user needs to enter the song name and click the search button to do so.
+   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
